@@ -1,1 +1,1 @@
-console.log("Notepad++ is actually the most popular text editor, but this is according to one Stack Overflow poll")
+console.log("According to one poll from 2015 on Stack Overflow, Notepad++ is the most popular text editor. We believe, however, that it is not effective as the available alternatives for code editing.")

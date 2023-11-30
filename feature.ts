@@ -1,1 +1,1 @@
-console.log("the absolute greatest text editor is emacs")
+console.log("emacs and vim are both great")

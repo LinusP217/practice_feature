@@ -1,1 +1,1 @@
-console.log("Notepad++ is the most popular text editor, but it is really bad as a code editor")
+console.log("According to one poll from 2015 on Stack Overflow, Notepad++ is the most popular text editor. We believe, however, that it is not effective as the available alternatives for code editing.")

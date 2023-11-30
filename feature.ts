@@ -1,1 +1,1 @@
-console.log("the best code editor is Vim")
+console.log("emacs and vim are both great")
